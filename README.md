@@ -122,7 +122,7 @@ If a future exercise changes or damages the VM configuration, the machine can be
 
 - IP Address: 10.0.0.2/24
 - Gateway: 10.0.0.1
-- DNS: 8.8.8.8
+- DNS: 10.0.0.0/24
 
 ## 🐞 Problem Encountered & Solutions
 
